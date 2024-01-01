@@ -1,5 +1,6 @@
 # stocknative
-
+# Git Link
+   https://github.com/manish5136/stocknative.git
 ## Project Overview
 
 This repository contains the code for a stock market dashboard mobile application built with React Native using Expo CLI.
